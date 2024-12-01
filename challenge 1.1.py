@@ -1,18 +1,20 @@
-lists = input("Enter a list: ")
-individuals = lists.split()  #seperates the input string into single words
-list1 = []
-list2 = []
-for i in range(0, len(individuals)):
-    if i % 2 == 0:
-        list1.append(int(individuals[i]))
-    else:
-        list2.append(int(individuals[i]))
-print(list1, list2)
-
-
 def sort_new(to_be_sorted: list):
     return sorted(to_be_sorted)
 
+
+lists = input('Enter a list: ')
+individuals = lists.split()  #seperates the input string into single words
+list1 = []
+list2 = []
+print(len(individuals))
+for i in range(0, len(individuals)):
+    if i % 2 == 0:
+        print("x")
+        list1.append(int(individuals[i]))
+    else:
+        print("y")
+        list2.append(int(individuals[i]))
+print(list1, list2)
 
 temp = 0
 
