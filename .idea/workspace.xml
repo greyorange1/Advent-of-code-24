@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d04d93b-bd38-4b13-9dcb-1c135f59b617" name="Changes" comment="First day, first challenge, first part finished">
-      <change afterPath="$PROJECT_DIR$/challenge 1.2.py" afterDir="false" />
+    <list default="true" id="1d04d93b-bd38-4b13-9dcb-1c135f59b617" name="Changes" comment="First day, first challenge, second part finished">
+      <change afterPath="$PROJECT_DIR$/challenge 2.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge 1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge 1.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,8 @@
   "keyToString": {
     "Python.challenge 1.1.executor": "Run",
     "Python.challenge 1.2.executor": "Run",
+    "Python.challenge 2.1.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -65,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733069367598</updated>
       <workItem from="1733069369030" duration="8754000" />
-      <workItem from="1733087889569" duration="1658000" />
+      <workItem from="1733087889569" duration="2362000" />
+      <workItem from="1733146163935" duration="11827000" />
     </task>
     <task id="LOCAL-00001" summary="First day, first challenge, first part finished">
       <option name="closed" value="true" />
@@ -75,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733072600356</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First day, first challenge, second part finished">
+      <option name="closed" value="true" />
+      <created>1733094134485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733094134485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,10 +93,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First day, first challenge, first part finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="First day, first challenge, first part finished" />
+    <MESSAGE value="First day, first challenge, second part finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="First day, first challenge, second part finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Advent_of_code$challenge_1_2.coverage" NAME="challenge 1.2 Coverage Results" MODIFIED="1733088115566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Advent_of_code$challenge_1_1.coverage" NAME="challenge 1.1 Coverage Results" MODIFIED="1733086302214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_code$test.coverage" NAME="test Coverage Results" MODIFIED="1733156622375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_code$challenge_2_1.coverage" NAME="challenge 2.1 Coverage Results" MODIFIED="1733175453537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
