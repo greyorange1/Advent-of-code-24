@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d04d93b-bd38-4b13-9dcb-1c135f59b617" name="Changes" comment="Third day, third challenge, first part finished, a bit od second part">
-      <change afterPath="$PROJECT_DIR$/challenge 3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge 3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Advent of code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advent of code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge 3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge 3.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,26 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.challenge 1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge 1.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge 2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ehrns/PycharmProjects/Advent of code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.challenge 1.1.executor": "Run",
+    "Python.challenge 1.2.executor": "Run",
+    "Python.challenge 2.1.executor": "Run",
+    "Python.challenge 3.2.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Joe/OneDrive/Dokumente/Studium/Semester_2/Python/Advent-of-code-24",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Joe\OneDrive\Dokumente\Studium\Semester_2\Python\Advent-of-code-24" />
       <recent name="C:\Users\ehrns\PycharmProjects\Advent of code" />
     </key>
   </component>
@@ -78,6 +78,7 @@
       <workItem from="1733087889569" duration="2362000" />
       <workItem from="1733146163935" duration="15054000" />
       <workItem from="1733244838303" duration="3606000" />
+      <workItem from="1733248485503" duration="8366000" />
     </task>
     <task id="LOCAL-00001" summary="First day, first challenge, first part finished">
       <option name="closed" value="true" />
@@ -103,23 +104,44 @@
       <option name="project" value="LOCAL" />
       <updated>1733179074272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third day, third challenge, first part finished, a bit od second part">
+      <option name="closed" value="true" />
+      <created>1733249090711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733249090711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First day, first challenge, first part finished" />
     <MESSAGE value="First day, first challenge, second part finished" />
     <MESSAGE value="Second day, second challenge, first part finished" />
+    <MESSAGE value="Second day, second challenge, second part without edge cases : (" />
     <MESSAGE value="Third day, third challenge, first part finished, a bit od second part" />
     <option name="LAST_COMMIT_MESSAGE" value="Third day, third challenge, first part finished, a bit od second part" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Advent_of_code$challenge_1_2.coverage" NAME="challenge 1.2 Coverage Results" MODIFIED="1733088115566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_code_24$challenge_3_2.coverage" NAME="challenge 3.2 Coverage Results" MODIFIED="1733259510382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Advent_of_code$challenge_1_1.coverage" NAME="challenge 1.1 Coverage Results" MODIFIED="1733086302214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Advent_of_code$test.coverage" NAME="test Coverage Results" MODIFIED="1733156622375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Advent_of_code$challenge_2_1.coverage" NAME="challenge 2.1 Coverage Results" MODIFIED="1733175453537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_code$test.coverage" NAME="test Coverage Results" MODIFIED="1733156622375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_code$challenge_1_2.coverage" NAME="challenge 1.2 Coverage Results" MODIFIED="1733088115566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
