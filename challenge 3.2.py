@@ -14,23 +14,5 @@ for i in corrupted_input3:
             result += temp1 * temp2
         except ValueError:
             continue
-'''
-for o in range(0, len(corrupted_input2)):
-    if o % 2 == 0:
-        print("s")
-        i = corrupted_input2[o].split("mul(")
-        for j in i:
-            j = j.split(")")
-            for k in j:
-                k = k.split(",")
-                prev = "0"
-                for l in k:
-                    try:
-                        result = result + int(l) * int(prev)
-                    except ValueError:
-                        prev = l
-                        continue
-                    prev = l
-                    continue
-'''
+
 print(result)

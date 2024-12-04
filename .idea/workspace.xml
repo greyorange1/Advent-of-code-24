@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d04d93b-bd38-4b13-9dcb-1c135f59b617" name="Changes" comment="Third day, third challenge, first part finished, a bit od second part">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge 3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge 3.2.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d04d93b-bd38-4b13-9dcb-1c135f59b617" name="Changes" comment="Third day, third challenge, second part finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <workItem from="1733087889569" duration="2362000" />
       <workItem from="1733146163935" duration="15054000" />
       <workItem from="1733244838303" duration="3606000" />
-      <workItem from="1733248485503" duration="8366000" />
+      <workItem from="1733248485503" duration="8397000" />
     </task>
     <task id="LOCAL-00001" summary="First day, first challenge, first part finished">
       <option name="closed" value="true" />
@@ -112,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733249090711</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Third day, third challenge, second part finished">
+      <option name="closed" value="true" />
+      <created>1733268066577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733268066577</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +140,8 @@
     <MESSAGE value="Second day, second challenge, first part finished" />
     <MESSAGE value="Second day, second challenge, second part without edge cases : (" />
     <MESSAGE value="Third day, third challenge, first part finished, a bit od second part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third day, third challenge, first part finished, a bit od second part" />
+    <MESSAGE value="Third day, third challenge, second part finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third day, third challenge, second part finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Advent_of_code_24$challenge_3_2.coverage" NAME="challenge 3.2 Coverage Results" MODIFIED="1733259510382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
